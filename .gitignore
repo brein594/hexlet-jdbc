@@ -1,5 +1,5 @@
-.idea
+.idea/
 settings.gradle.kts
-.gradle
+.gradle/
 gradlew.bat
-build
+build/
