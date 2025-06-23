@@ -1,5 +1,7 @@
-.idea/
+/hexlet-jdbc/.idea/
 settings.gradle.kts
-.gradle/
-gradlew.bat
-build/
+/hexlet-jdbc/.gradle/
+/hexlet-jdbc/gradlew.bat
+/hexlet-jdbc/build/
+../.idea/
+/hexlet-jdbc/gradle
